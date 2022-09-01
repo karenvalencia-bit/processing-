@@ -1,0 +1,29 @@
+Ellipse circulo
+Rectr rectangulo
+Stroke cambiar color linea
+Line dibujar lines
+Strokeweight grosor de la linea
+Fill colorea el relleno
+
+Se ejecuta organizadamente
+
+float decimal
+int entero
+
+//poner lineas aleatoriamente horizontal
+variable=random(0,height) //entre cero y el
+numero de la pantalla
+
+line(0,variable,width,variable);
+
+
+//height alto-weigth ancho
+
+
+condiciones 
+< menor que
+> mayor que
+== igual
+!= diferente de
+<= menor o igual
+>= mayor o igual
